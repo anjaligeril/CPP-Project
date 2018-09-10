@@ -1,0 +1,4 @@
+﻿  chapter1Project.cpp
+c:\users\geril\desktop\cpp\new\chapter1project\chapter1project\chapter1project.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  chapter1Project.vcxproj -> C:\Users\geril\Desktop\cpp\New\chapter1Project\Debug\chapter1Project.exe
+  chapter1Project.vcxproj -> C:\Users\geril\Desktop\cpp\New\chapter1Project\Debug\chapter1Project.pdb (Full PDB)

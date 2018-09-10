@@ -1,0 +1,7 @@
+﻿  chapter5Project.cpp
+c:\users\geril\desktop\cpp\new\chapter5project\chapter5project\chapter5project.cpp(54): warning C4101: 'tempHour': unreferenced local variable
+c:\users\geril\desktop\cpp\new\chapter5project\chapter5project\chapter5project.cpp(54): warning C4101: 'tempMinute': unreferenced local variable
+c:\users\geril\desktop\cpp\new\chapter5project\chapter5project\chapter5project.cpp(103): warning C4101: 'tempHour': unreferenced local variable
+c:\users\geril\desktop\cpp\new\chapter5project\chapter5project\chapter5project.cpp(103): warning C4101: 'tempMinute': unreferenced local variable
+  chapter5Project.vcxproj -> C:\Users\geril\Desktop\cpp\New\chapter5Project\Debug\chapter5Project.exe
+  chapter5Project.vcxproj -> C:\Users\geril\Desktop\cpp\New\chapter5Project\Debug\chapter5Project.pdb (Full PDB)
